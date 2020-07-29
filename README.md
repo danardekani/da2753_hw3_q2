@@ -12,3 +12,8 @@ Please enter your name: Jessica\
 Please enter your graduation year: 2019\
 Please enter current year: 2015\
 Jessica, you are a Freshman
+
+Variables:
+
+string firstName, freshmanYear, sophomoreYear, juniorYear, seniorYear\
+int graduationYear, current year
