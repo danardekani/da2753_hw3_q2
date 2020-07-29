@@ -16,4 +16,4 @@ Jessica, you are a Freshman
 Variables:
 
 string firstName, freshmanYear, sophomoreYear, juniorYear, seniorYear\
-int graduationYear, current year
+int graduationYear, currentYear
